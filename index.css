@@ -1,5 +1,5 @@
 body {
-    background-color:chartreuse;
+
     font-family: cursive;
     text-align: center;
 }
@@ -16,6 +16,7 @@ p{
     font-size: 200%;
 }
 .title{
+     color: blue;
     background-color: green;
 }
 .image{
@@ -27,6 +28,7 @@ p{
     text-align: center;
 }
 .pcto{
+    color: blue;
     text-align: left;
 }
 .azienda{
